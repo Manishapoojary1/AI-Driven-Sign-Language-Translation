@@ -76,12 +76,13 @@ AI-Driven-Sign-Language-Translation/
 
 ---
 
-```md
+```
 ## ⚙️ How to Run the Project
 
-```bash
 pip install -r requirements.txt
 python app.py
+
+```bash
 
 
 
