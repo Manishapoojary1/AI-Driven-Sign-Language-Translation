@@ -74,9 +74,8 @@ AI-Driven-Sign-Language-Translation/
 ├── requirements.txt
 └── README.md
 
-```md
-## ⚙️ How to Run the Project
-
-```bash
+⚙️ How to Run the Project
 pip install -r requirements.txt
 python app.py
+
+
