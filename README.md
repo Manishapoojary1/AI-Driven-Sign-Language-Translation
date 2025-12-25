@@ -74,16 +74,9 @@ AI-Driven-Sign-Language-Translation/
 ├── requirements.txt
 └── README.md
 
-⚙️ How to Run the Project
+```md
+## ⚙️ How to Run the Project
+
+```bash
 pip install -r requirements.txt
 python app.py
-
-📊 Dataset
-Dataset collected from Kaggle
-Custom gesture images for words like Hello, Hi, Bye, etc.
-
-🚀 Future Enhancements
-Real-time camera-based gesture detection
-Sentence-level sign translation
-Mobile application support
-Improved accuracy with larger datasets
