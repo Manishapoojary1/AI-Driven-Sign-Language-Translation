@@ -1,0 +1,12 @@
+venv/
+.venv/
+data/
+models/
+checkpoints/
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.zip
+*.tar
+*.tar.gz
