@@ -76,17 +76,16 @@ AI-Driven-Sign-Language-Translation/
 
 ---
 
+```md
 ## ⚙️ How to Run the Project
 
 ```bash
 pip install -r requirements.txt
 python app.py
 
-## 📊 Dataset Used
 
-Dataset collected from Kaggle
 
-Custom gesture images for words like Hello, Hi, Bye, etc.
+
 
 
 
