@@ -1,4 +1,4 @@
-# 🤟 AI-Driven Sign Language Translation
+#  AI-Driven Sign Language Translation
 
 ---
 
